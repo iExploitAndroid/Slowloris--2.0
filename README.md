@@ -9,7 +9,11 @@ New And Improved Slowloris🦥 Takes Apache Webserver Down In Seconds!!! Website
 
 ⚠️For Educational Purposes Only⚠️
 
-💥USAGE💥- python3 slowloris.py example.com -p 80 -t 2000 -d 15
+💥USAGE💥- python3 Slowloris 2.0 .py example.com -p 80 -t 2000 -d 15
+
+[-hHELP] [-p PORT] [-t THREADS]
+                         [-d DELAY] [--timeout TIMEOUT]
+                         target
 
 
 💥KEY-IMPROVMENTS💥
