@@ -1,4 +1,3 @@
-# Slowloris--2.0
 ‼️New And Improved Slowloris‼️Takes Apache Webserver Down In Seconds!!! Websites that dont use "Load-Balancing" Are %90 More Vulnerable .Use A Tool Called "LBD"To Easily See What Server They Use And If They Have Load Balancing.😈✅💻
 
 ⚠️This Tool Is No Joke⚠️ 
@@ -19,7 +18,7 @@
 
 ‼️STEP 2‼️ (GO TO THE DIRECTORY)
 
--  cd Slowloris--2.0
+-  cd 'Slowloris--2.0'
 
 
 ‼️STEP 3‼️ (GIVE PERMISSION TO EXECUTE)
@@ -29,7 +28,7 @@
 
 ‼️FINAL STEP‼️ (EXECUTE THE FILE)
 
--  python3 Slowloris 2.0 .py example.com -p 80 -t 2000 -d 15
+-  python3 'Slowloris 2.0 .py' example.com -p 80 -t 2000 -d 15
 
 
 ‼️Help Command Index‼️
